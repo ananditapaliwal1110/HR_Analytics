@@ -1,4 +1,4 @@
-#HR Analytics Dashboard | Power BI
+HR Analytics Dashboard | Power BI
 This project focuses on analyzing key HR metrics to support data-driven workforce decisions. The dashboard provides actionable insights into employee attrition, demographics, performance trends, and job satisfaction.
 
 Key Highlights:
@@ -14,5 +14,5 @@ Enabled HR teams to make informed decisions related to retention, hiring, and wo
 Outcome:
 Helped transform raw HR data into meaningful insights, improving visibility into employee behavior and organizational health.
 
-🔧 Tools Used: Power BI, DAX, Data Modeling
-📊 Domain: HR Analytics, Business Intelligence
+Tools Used: Power BI, DAX, Data Modeling
+Domain: HR Analytics, Business Intelligence
